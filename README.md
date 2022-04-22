@@ -1,2 +1,4 @@
 # git_test
-my frist GitHub repo
+
+My first GitHub repo
+Hello Odin
